@@ -62,7 +62,7 @@ $("#mytable #checkall").click(function () {
                     
                     <tr>
                     <td><input type="checkbox" class="checkthis" /></td>
-                    <td>Mohsin</td>
+                    <td>Mohsin Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet optio dolorem, illo laborum unde temporibus expedita, inventore nobis. Incidunt provident, temporibus ipsa ab voluptate? Tenetur libero sed maxime accusamus doloremque.</td>
                     <td>Irshad</td>
                     <td>CB 106/107 Street # 11 Wah Cantt Islamabad Pakistan</td>
                     <td><p><button class="btn btn-primary btn-xs" data-title="Edit" data-toggle="modal" data-target="#edit" data-placement="top" rel="tooltip"><span class="glyphicon glyphicon-pencil"></span></button></p></td>
